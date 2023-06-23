@@ -1,0 +1,15 @@
+{
+    "name": "mati/modelo-seg-parcial",
+    "autoload": {
+        "psr-4": {
+            "Mati\\ModeloSegParcial\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "matigthb",
+            "email": "matihorisberger@gmail.com"
+        }
+    ],
+    "require": {}
+}
